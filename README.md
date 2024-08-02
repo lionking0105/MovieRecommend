@@ -140,7 +140,7 @@ To learn more about React Native, take a look at the following resources:
 - Clone with git:
 
   ```sh
-  git clone https://github.com/Ninhnon/MovieRecommend.git
+  git clone https://github.com/lionking0105/MovieRecommend.git
   ```
 
 - Install necessary packages:
